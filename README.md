@@ -48,6 +48,7 @@ python tout_executer.py
 | Musique | [`partitions.py`](simulations/partitions.py) (données réelles) |
 | Entropie spatiale | [`villes_reelles.py`](simulations/villes_reelles.py) (données réelles) |
 | Le vivant | [`proteine_exacte.py`](simulations/proteine_exacte.py) |
+| Percolation | [`percolation_entropie.py`](simulations/percolation_entropie.py) |
 | L'entropimètre : mesurer l'entropie | [`entropimetre.py`](simulations/entropimetre.py) |
 | Boltzmann: le désordre se compte | [`boite_boltzmann.py`](simulations/boite_boltzmann.py) |
 | Shannon: l'entropie de l'information | [`entropie_texte.py`](simulations/entropie_texte.py) |
