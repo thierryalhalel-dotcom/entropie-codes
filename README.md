@@ -42,6 +42,8 @@ python tout_executer.py
 | Musique | [`melodies.py`](simulations/melodies.py) |
 | Civilisations | [`tainter.py`](simulations/tainter.py) |
 | Médecine | [`sampen.py`](simulations/sampen.py) |
+| Shannon | [`lettres.py`](simulations/lettres.py) |
+| Bayes | [`patients.py`](simulations/patients.py) |
 | L'entropimètre : mesurer l'entropie | [`entropimetre.py`](simulations/entropimetre.py) |
 | Boltzmann: le désordre se compte | [`boite_boltzmann.py`](simulations/boite_boltzmann.py) |
 | Shannon: l'entropie de l'information | [`entropie_texte.py`](simulations/entropie_texte.py) |
