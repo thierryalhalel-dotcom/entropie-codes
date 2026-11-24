@@ -44,6 +44,9 @@ python tout_executer.py
 | Médecine | [`sampen.py`](simulations/sampen.py) |
 | Shannon | [`lettres.py`](simulations/lettres.py) |
 | Bayes | [`patients.py`](simulations/patients.py) |
+| Médecine | [`rr_reels.py`](simulations/rr_reels.py) (données réelles) |
+| Musique | [`partitions.py`](simulations/partitions.py) (données réelles) |
+| Entropie spatiale | [`villes_reelles.py`](simulations/villes_reelles.py) (données réelles) |
 | L'entropimètre : mesurer l'entropie | [`entropimetre.py`](simulations/entropimetre.py) |
 | Boltzmann: le désordre se compte | [`boite_boltzmann.py`](simulations/boite_boltzmann.py) |
 | Shannon: l'entropie de l'information | [`entropie_texte.py`](simulations/entropie_texte.py) |
@@ -79,6 +82,14 @@ python tout_executer.py
 `arduino/peltier/peltier.ino` : module Peltier (non encore testé).
 `arduino/enregistrer.py` : enregistrement CSV (`pip install pyserial`).
 `donnees/` : mesures **simulées** (fichiers `*_SIMULE.csv`) et textes français et anglais des *Trois Mousquetaires* (domaine public).
+
+## Données réelles
+
+Téléchargées au premier lancement dans `donnees/externe/` (non versionné) :
+
+- PhysioNet `nsr2db`, `chf2db`, `afdb` : licence ODC-By 1.0 (Goldberger et al., *Circulation* 101, e215, 2000). Usage pédagogique, aucun diagnostic.
+- `geo.api.gouv.fr` (d'après l'INSEE) : Licence Ouverte.
+- Partitions Humdrum de C. S. Sapp : CC BY-NC-SA 4.0, **non redistribuées** (téléchargées par `git`).
 
 ## Figures du livre
 

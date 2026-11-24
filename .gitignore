@@ -2,3 +2,4 @@ __pycache__/
 *.pyc
 figures/
 figures_livre/figures/
+donnees/externe/
